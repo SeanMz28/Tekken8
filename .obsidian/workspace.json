@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6b491c0c1e1b1f",
+        "id": "4bb8b27abda15aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "1ea2396069b344e5",
+            "id": "4daf3c5a59a2c833",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,10 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ea2396069b344e5",
+  "active": "4daf3c5a59a2c833",
   "lastOpenFiles": [
-    "media/eddy.gif",
+    "media/eddy/df3.gif",
     "Characters/Eddy.md",
+    "media/eddy/df3.png",
+    "media/eddy/T8ComboNotation_mediumres (1).png",
+    "media/eddy/eddy.gif",
+    "media/eddy",
+    "media/eddy.gif",
     "Welcome.md",
     "Characters",
     "media"

@@ -1,2 +1,8 @@
-![eddy.gif](./../media/eddy.gif) \
-Punish that shit
+
+
+
+|                 Move                 |                              | Frame Data |
+| :----------------------------------: | :--------------------------: | :--------: |
+| ![\|100x50](./../media/eddy/df3.png) | ![](./../media/eddy/df3.gif) |  **-18**   |
+
+
